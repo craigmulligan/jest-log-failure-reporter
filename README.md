@@ -6,6 +6,10 @@ It makes the test output alot more readable. This gives jest the same behaviour.
 
 ## Usage:
 
+```bash
+npm i --dev jest-log-failure-reporter
+```
+
 ```json
 ...
 	// Use this configuration option to add custom reporters to Jest
