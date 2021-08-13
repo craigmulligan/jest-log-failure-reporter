@@ -13,8 +13,8 @@ npm i --dev jest-log-failure-reporter
 ```json
 ...
 	// Use this configuration option to add custom reporters to Jest
-	reporters: [
-	   'jest-log-failure-reporter',
-	],
+        "reporters": [
+           "jest-log-failure-reporter"
+        ]
 ...
 ```
