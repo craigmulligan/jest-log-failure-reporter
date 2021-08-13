@@ -10,7 +10,7 @@ It makes the test output alot more readable. This gives jest the same behaviour.
 ...
 	// Use this configuration option to add custom reporters to Jest
 	reporters: [
-	   '<rootDir>/tests/reporter.js',
+	   'jest-log-failure-reporter',
 	],
 ...
 ```
