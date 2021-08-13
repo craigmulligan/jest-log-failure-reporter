@@ -1,0 +1,15 @@
+{
+  "name": "jest-log-failure-reporter",
+  "version": "1.0.0",
+  "description": "A reporter for test that only full logs for failures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jest-reporter",
+    "jest"
+  ],
+  "author": "craig mulligan",
+  "license": "ISC"
+}
